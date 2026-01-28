@@ -68,7 +68,7 @@ BF = +2 → Imbalance detected → rotation required
 
 ---
 
-## 📌 Question 3: Four Imbalance Cases in AVL Tree & Fixes
+##  Question 3: Four Imbalance Cases in AVL Tree & Fixes
 
 AVL imbalance occurs when |BF| > 1.
 
